@@ -1,3 +1,37 @@
 <resources>
     <string name="app_name">Corona Tracker</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="coronavirus_global_title">Coronavirus Global</string>
+    <string name="data_corona_global_title">Data Corona Global</string>
+    <string name="sumber_data">Sumber data : Kementerian Kesehatan dan JHU.</string>
+    <string name="hari_tanggal">Hari, Tanggal</string>
+    <string name="emoji_positif">Emoji Positif</string>
+    <string name="positif">Positif</string>
+    <string name="value">0</string>
+    <string name="sembuh">Sembuh</string>
+    <string name="meninggal">Meninggal</string>
+    <string name="emohi_sembuh">Emohi Sembuh</string>
+    <string name="emoji_meninggal">Emoji Meninggal</string>
+    <string name="live_data_indonesia">Live Data Indonesia</string>
+    <string name="bendera_indonesia">Bendera Indonesia</string>
+    <string name="positif_text">Positif :</string>
+    <string name="sembuh_text">Sembuh :</string>
+    <string name="meninggal_text">Meninggal :</string>
+    <string name="data_corona_di_negara_lain">Data Corona di Negara Lain</string>
+    <string name="lihat_profile_pengembang">Lihat Profile Pengembang</string>
+    <string name="name">Muhammad Hisyam Fadhil</string>
+    <string name="nim">6706170086</string>
+    <string name="kelas">D3RPLA-41-GAB</string>
+    <string name="profile">Profile</string>
+    <string name="back_button">back button</string>
+    <string name="nama_provinsi">Nama Provinsi</string>
+    <string name="lawan_covid_19">Lawan Covid-19</string>
+    <string name="deskripsi_aplikasi">Aplikasi ini dibuat bertujuan untuk menampilkan informasi terdata covid-19.</string>
+    <string name="lihat_data_provinsi">Lihat Data Provinsi</string>
+    <string name="corona_tracker">Corona Tracker</string>
+    <string name="tentang_aplikasi">Aplikasi yang menampilkan informasi terdata tentang covid-19, yang berisi data terdata di Global dan di Indonesia. Data di ambil dari API kawalcorona.com/api</string>
+    <string name="about_aplikasi">Tentang Aplikasi</string>
+    <string name="kartu_data_corona_global">Kartu data corona global</string>
 </resources>
